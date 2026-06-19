@@ -33,15 +33,13 @@ is not a real radio or optical link-rate measurement.
 - predicted contacts can control a real socket path.
 
 ## What this does not prove
-
-- flight readiness;
 - real modem or laser operation;
 - superiority over HTTP/3, QUIC, BPv7, or Starlink;
-- production security;
-- multi-hop routing;
-- accurate RF capacity; or
+- accurate RF capacity;
 - constellation scalability.
 
+
+##It is strictly research (HOBBYYYYYYYY project) 
 ## Efficiency
 
 At 32 KiB chunks, the prototype adds about 80 application bytes for the DATA
