@@ -6,7 +6,7 @@ applications on Earth.
 
 OSPS treats storage, resumption, priority, and contact awareness as normal
 protocol behavior. It is currently a research proposal and simulation-backed
-design—not an approved standard, flight-qualified implementation, Bundle
+design, flight-qualified implementation, Bundle
 Protocol replacement, or description of Starlink's proprietary internals.
 
 ## Documentation
