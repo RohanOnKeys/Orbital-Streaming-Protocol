@@ -54,9 +54,7 @@ semantics.
 ## Fair performance comparison
 
 Use identical payloads, contacts, losses, hardware, security levels,
-persistence requirements, and success criteria. Until then, claim prototype
-outcomes—not universal speed leadership.
-
+persistence requirements, and success criteria. 
 ## References
 
 - [RFC 9000 — QUIC](https://www.rfc-editor.org/rfc/rfc9000.html)
